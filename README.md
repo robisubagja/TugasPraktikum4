@@ -18,7 +18,7 @@
     
     4. menampilkan hasil data dari program perulangan di atas menggunakan "for index in range " dan "len()" dan untuk inputan 
        Tugas  Uts dan Uas di deklarasikan menggunakan "str", menghitung rata-rata nilai dari nilai Tugas Uts dan Uas menggunakan
-       perintah "  akhir = round((tugas[i]+uts[i]+uas[i])/3, 2) " atau bisa menggunakan deklarasi "Float"
+       perintah "  akhir = round((tugas[i]+uts[i]+uas[i])/3, 2) " 
        
    ![4](https://user-images.githubusercontent.com/56831922/69475512-84dbaf00-0e00-11ea-9f20-0437a060515d.JPG)
 
