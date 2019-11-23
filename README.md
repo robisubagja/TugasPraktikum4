@@ -21,4 +21,9 @@
        perintah "  akhir = round((tugas[i]+uts[i]+uas[i])/3, 2) " 
        
    ![4](https://user-images.githubusercontent.com/56831922/69475512-84dbaf00-0e00-11ea-9f20-0437a060515d.JPG)
+   
+   
+   - Dan berikut adalah hasil program nya
+
+   ![Screenshoot](https://user-images.githubusercontent.com/56831922/69475546-1ba86b80-0e01-11ea-9e8f-cdf1a70d4f04.JPG)
 
