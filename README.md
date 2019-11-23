@@ -5,7 +5,7 @@
    ![1](https://user-images.githubusercontent.com/56831922/69475484-4d6d0280-0e00-11ea-8da3-455e2276ae60.JPG)
 
     
-    2. membuat inputan data "Nama" "Nim" "tugas" "Uts" "Uas" dan "Rata-Rata nilai" secara berulang menggunakan "while True" dan
+    2. membuat inputan data "Nama" "Nim" "tugas" "Uts" dan "Uas" secara berulang menggunakan "while True" dan
        ditambah perintah "appened" untuk memasukan data dalam list kosong yang di buat sebelum nya
        
    ![2](https://user-images.githubusercontent.com/56831922/69475494-61b0ff80-0e00-11ea-9be6-7d94b7d29dea.JPG)
