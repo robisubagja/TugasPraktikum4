@@ -26,4 +26,9 @@
    - Dan berikut adalah hasil program nya
 
    ![Screenshoot](https://user-images.githubusercontent.com/56831922/69475546-1ba86b80-0e01-11ea-9e8f-cdf1a70d4f04.JPG)
+   
+   - Flowchart nya
+   
+   ![Screenshot_2019-11-23-16-11-02-036_com google android apps docs](https://user-images.githubusercontent.com/56831922/69476412-2f0d0400-0e0c-11ea-923a-d12d5f8e4340.png)
+
 
